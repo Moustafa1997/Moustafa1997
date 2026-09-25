@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Moustafa Aboulazm — Backend Engineer · Node.js Developer"/>
 
 <p align="center">
-  <img src="assets/typing.svg" alt="Backend Engineer | Node.js Developer · I build scalable, real-world backend systems"/>
+  <img src="assets/typing.svg" alt="Backend Engineer · Node.js Developer · I build scalable, real-world backend systems"/>
 </p>
 
 <p align="center">
