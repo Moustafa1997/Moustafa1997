@@ -1,22 +1,21 @@
 <a name="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:3178C6&height=200&section=header&text=Moustafa%20Aboulazm&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Node.js%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="assets/header.svg" width="100%" alt="Moustafa Aboulazm — Backend Engineer · Node.js Developer"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Node.js+Developer;I+build+scalable%2C+real-world+backend+systems;Fintech+%C2%B7+Real-time+apps+%C2%B7+ERP+platforms;Payments+%C2%B7+KYC+%C2%B7+Live+pricing" alt="Typing SVG" /></a>
+  <img src="assets/typing.svg" alt="Backend Engineer | Node.js Developer · I build scalable, real-world backend systems"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moustafa-aboulazm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:moustafa.aboulazm1997@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Moustafa1997?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Moustafa1997&style=for-the-badge&color=339933&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/moustafa-aboulazm"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a>
+  <a href="mailto:moustafa.aboulazm1997@gmail.com"><img src="assets/badges/email.svg" alt="Email"/></a>
+  <a href="https://github.com/Moustafa1997?tab=repositories"><img src="assets/badges/repositories.svg" alt="Repositories"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Remote_%26_Hybrid-339933?style=flat-square" alt="Open to remote & hybrid"/>
-  <img src="https://img.shields.io/badge/Based_in-Menofia%2C_Egypt-3178C6?style=flat-square" alt="Based in Egypt"/>
-  <img src="https://img.shields.io/badge/Focus-Fintech_Backend-FFB400?style=flat-square" alt="Focus: Fintech backend"/>
+  <img src="assets/badges/open-to.svg" alt="Open to remote & hybrid"/>
+  <img src="assets/badges/based-in.svg" alt="Based in Egypt"/>
+  <img src="assets/badges/focus.svg" alt="Focus: Fintech backend"/>
 </p>
 
 ---
@@ -48,36 +47,36 @@ const moustafa = {
   <tr>
     <td align="center" width="140"><b>Languages & Runtime</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="assets/badges/nodejs.svg" alt="Node.js"/>
+      <img src="assets/badges/typescript.svg" alt="TypeScript"/>
+      <img src="assets/badges/javascript.svg" alt="JavaScript"/>
+      <img src="assets/badges/cplusplus.svg" alt="C++"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frameworks</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+      <img src="assets/badges/express.svg" alt="Express"/>
+      <img src="assets/badges/nestjs.svg" alt="NestJS"/>
+      <img src="assets/badges/socketio.svg" alt="Socket.IO"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="assets/badges/postgresql.svg" alt="PostgreSQL"/>
+      <img src="assets/badges/mysql.svg" alt="MySQL"/>
+      <img src="assets/badges/mongodb.svg" alt="MongoDB"/>
+      <img src="assets/badges/redis.svg" alt="Redis"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps & Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="assets/badges/docker.svg" alt="Docker"/>
+      <img src="assets/badges/aws.svg" alt="AWS"/>
+      <img src="assets/badges/firebase.svg" alt="Firebase"/>
+      <img src="assets/badges/git.svg" alt="Git"/>
     </td>
   </tr>
   <tr>
@@ -89,9 +88,9 @@ const moustafa = {
 ### 🌱 Currently learning
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/System_Design-FF6F61?style=flat-square" alt="System Design"/>
+  <img src="assets/badges/learn-aws.svg" alt="AWS Cloud"/>
+  <img src="assets/badges/learn-cicd.svg" alt="CI/CD"/>
+  <img src="assets/badges/learn-system-design.svg" alt="System Design"/>
 </p>
 
 ---
@@ -108,13 +107,6 @@ const moustafa = {
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Moustafa1997/Nature-Tours"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Moustafa1997&repo=Nature-Tours&theme=transparent&hide_border=true" alt="Nature Tours"/></a>
-  <a href="https://github.com/Moustafa1997/StoreBackend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Moustafa1997&repo=StoreBackend&theme=transparent&hide_border=true" alt="Store Backend"/></a>
-  <a href="https://github.com/Moustafa1997/smart-fridge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Moustafa1997&repo=smart-fridge&theme=transparent&hide_border=true" alt="Smart Fridge"/></a>
-  <a href="https://github.com/Moustafa1997/hosting-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Moustafa1997&repo=hosting-aws&theme=transparent&hide_border=true" alt="AWS Hosting"/></a>
-</p>
-
 | Project | Description |
 |---|---|
 | 🧭 **[Nature Tours API](https://github.com/Moustafa1997/Nature-Tours)** | Tourism platform with advanced filtering, geolocation queries, bookings & Stripe payments |
@@ -127,21 +119,19 @@ const moustafa = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moustafa1997&show_icons=true&count_private=true&theme=transparent&hide_border=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moustafa1997&layout=compact&theme=transparent&hide_border=true" height="165" alt="top languages" />
+  <img src="assets/stats/stats.svg" height="190" alt="GitHub stats"/>
+  <img src="assets/stats/languages.svg" height="190" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moustafa1997&theme=transparent&hide_border=true" height="165" alt="streak" />
+  <img src="assets/stats/streak.svg" width="720" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moustafa1997&bg_color=00000000&color=339933&line=3178C6&point=339933&area=true&hide_border=true" width="100%" alt="contribution graph" />
+  <img src="assets/stats/activity.svg" width="100%" alt="Contributions in the last 31 days"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moustafa1997&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-</p>
+<p align="center"><sub>Stats cards refresh daily via GitHub Actions.</sub></p>
 
 ---
 
@@ -150,10 +140,10 @@ const moustafa = {
 I'm always happy to talk about **backend architecture, fintech, real-time systems**, or new opportunities.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moustafa-aboulazm"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:moustafa.aboulazm1997@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/moustafa-aboulazm"><img src="assets/badges/connect-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="mailto:moustafa.aboulazm1997@gmail.com"><img src="assets/badges/say-hello.svg" alt="Email"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:339933&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 <p align="right"><a href="#top">⬆️ Back to top</a></p>
