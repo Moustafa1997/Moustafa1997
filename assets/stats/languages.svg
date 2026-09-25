@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="205" viewBox="0 0 400 205" role="img" aria-label="Most Used Languages">
+<style>
+  .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #339933; }
+  .label { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #57606a; }
+  .value { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #24292f; }
+  .big { font: 700 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #24292f; }
+  .small { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #57606a; }
+  .card { fill: #ffffff; stroke: #d0d7de; }
+  .grid { stroke: #d0d7de; }
+  @media (prefers-color-scheme: dark) {
+    .label, .small { fill: #8b949e; }
+    .value, .big { fill: #e6edf3; }
+    .card { fill: #0d1117; stroke: #30363d; }
+    .grid { stroke: #30363d; }
+  }
+</style>
+<rect class="card" x="0.5" y="0.5" rx="8" width="399" height="204"/>
+<text class="title" x="24" y="36">Most Used Languages</text>
+<clipPath id="bar"><rect x="24" y="52" width="352" height="8" rx="4"/></clipPath><g clip-path="url(#bar)"><rect x="24.00" y="52" width="276.32" height="8" fill="#3178c6"/><rect x="300.32" y="52" width="38.51" height="8" fill="#f1e05a"/><rect x="338.83" y="52" width="20.55" height="8" fill="#e34c26"/><rect x="359.38" y="52" width="9.04" height="8" fill="#663399"/><rect x="368.41" y="52" width="4.22" height="8" fill="#a86454"/><rect x="372.63" y="52" width="3.37" height="8" fill="#c6538c"/></g>
+<g><circle cx="29" cy="84" r="5" fill="#3178c6"/><text class="label" x="40" y="88">TypeScript <tspan class="small">78.5%</tspan></text></g>
+<g><circle cx="205" cy="84" r="5" fill="#f1e05a"/><text class="label" x="216" y="88">JavaScript <tspan class="small">10.9%</tspan></text></g>
+<g><circle cx="29" cy="110" r="5" fill="#e34c26"/><text class="label" x="40" y="114">HTML <tspan class="small">5.8%</tspan></text></g>
+<g><circle cx="205" cy="110" r="5" fill="#663399"/><text class="label" x="216" y="114">CSS <tspan class="small">2.6%</tspan></text></g>
+<g><circle cx="29" cy="136" r="5" fill="#a86454"/><text class="label" x="40" y="140">Pug <tspan class="small">1.2%</tspan></text></g>
+<g><circle cx="205" cy="136" r="5" fill="#c6538c"/><text class="label" x="216" y="140">SCSS <tspan class="small">1.0%</tspan></text></g>
+</svg>

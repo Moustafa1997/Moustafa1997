@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="175" viewBox="0 0 720 175" role="img" aria-label="Contribution Streak">
+<style>
+  .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #339933; }
+  .label { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #57606a; }
+  .value { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #24292f; }
+  .big { font: 700 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #24292f; }
+  .small { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #57606a; }
+  .card { fill: #ffffff; stroke: #d0d7de; }
+  .grid { stroke: #d0d7de; }
+  @media (prefers-color-scheme: dark) {
+    .label, .small { fill: #8b949e; }
+    .value, .big { fill: #e6edf3; }
+    .card { fill: #0d1117; stroke: #30363d; }
+    .grid { stroke: #30363d; }
+  }
+</style>
+<rect class="card" x="0.5" y="0.5" rx="8" width="719" height="174"/>
+<text class="title" x="24" y="36">Contribution Streak</text>
+<line class="grid" x1="240" y1="64" x2="240" y2="150"/><line class="grid" x1="480" y1="64" x2="480" y2="150"/>
+<g><text class="big" x="120" y="98" text-anchor="middle">4</text><text class="value" x="120" y="126" text-anchor="middle">Contributions</text><text class="small" x="120" y="146" text-anchor="middle">last year</text></g>
+<g><text class="big" x="360" y="98" text-anchor="middle">0</text><text class="value" x="360" y="126" text-anchor="middle">Current streak</text><text class="small" x="360" y="146" text-anchor="middle">days</text></g>
+<g><text class="big" x="600" y="98" text-anchor="middle">1</text><text class="value" x="600" y="126" text-anchor="middle">Longest streak</text><text class="small" x="600" y="146" text-anchor="middle">last year</text></g>
+</svg>
