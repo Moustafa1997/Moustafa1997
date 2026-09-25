@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/moustafa-aboulazm"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a>
   <a href="mailto:moustafa.aboulazm1997@gmail.com"><img src="assets/badges/email.svg" alt="Email"/></a>
   <a href="https://github.com/Moustafa1997?tab=repositories"><img src="assets/badges/repositories.svg" alt="Repositories"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Moustafa1997&style=for-the-badge&color=339933&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <p align="center">
