@@ -25,19 +25,13 @@
 I'm a **Backend Engineer** who enjoys turning complex business problems into clean, reliable, and scalable APIs.
 Most of my recent work lives in **fintech** — moving real money, verifying real users, and streaming real-time prices — where correctness and security aren't optional.
 
-```ts
-const moustafa = {
-  role: "Backend Engineer",
-  currentlyBuilding: "Digital gold & silver investment fintech",
-  stack: ["Node.js", "TypeScript", "NestJS", "Express", "Redis", "Docker"],
-  experiencedWith: ["Payments", "KYC", "Real-time pricing", "Secure transactions", "ERP systems"],
-  education: "B.Sc. Computer Science — Menofia University (Grade: 100%)",
-  location: "Menofia, Egypt 🇪🇬",
-  openTo: ["Remote", "Hybrid"],
-  languages: { arabic: "Native", english: "Professional working proficiency" },
-  hobbies: ["Drawing 🎨"],
-};
-```
+- 🔭 Currently building a **digital gold & silver investment fintech** (Node.js, TypeScript, Redis, Docker)
+- 🏦 Experienced with **payments, KYC, real-time pricing, and secure transactions**
+- 🧩 Comfortable across **REST APIs, microservices, ERP systems, and real-time apps**
+- 🎓 B.Sc. in Computer Science — **Menofia University** (Grade: 100%)
+- 🌍 Based in **Menofia, Egypt** — open to **remote & hybrid** work
+- 🗣️ Arabic (native) · English (professional working proficiency)
+- 🎨 Outside of code, I enjoy **drawing**
 
 ---
 
