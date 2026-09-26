@@ -17,7 +17,7 @@
 <rect class="card" x="0.5" y="0.5" rx="8" width="719" height="174"/>
 <text class="title" x="24" y="36">Contribution Streak</text>
 <line class="grid" x1="240" y1="64" x2="240" y2="150"/><line class="grid" x1="480" y1="64" x2="480" y2="150"/>
-<g><text class="big" x="120" y="98" text-anchor="middle">8</text><text class="value" x="120" y="126" text-anchor="middle">Contributions</text><text class="small" x="120" y="146" text-anchor="middle">last year</text></g>
+<g><text class="big" x="120" y="98" text-anchor="middle">10</text><text class="value" x="120" y="126" text-anchor="middle">Contributions</text><text class="small" x="120" y="146" text-anchor="middle">last year</text></g>
 <g><text class="big" x="360" y="98" text-anchor="middle">1</text><text class="value" x="360" y="126" text-anchor="middle">Current streak</text><text class="small" x="360" y="146" text-anchor="middle">day</text></g>
 <g><text class="big" x="600" y="98" text-anchor="middle">1</text><text class="value" x="600" y="126" text-anchor="middle">Longest streak</text><text class="small" x="600" y="146" text-anchor="middle">last year</text></g>
 </svg>

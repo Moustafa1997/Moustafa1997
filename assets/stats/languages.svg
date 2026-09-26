@@ -16,11 +16,11 @@
 </style>
 <rect class="card" x="0.5" y="0.5" rx="8" width="399" height="204"/>
 <text class="title" x="24" y="36">Most Used Languages</text>
-<clipPath id="bar"><rect x="24" y="52" width="352" height="8" rx="4"/></clipPath><g clip-path="url(#bar)"><rect x="24.00" y="52" width="275.57" height="8" fill="#3178c6"/><rect x="299.57" y="52" width="39.35" height="8" fill="#f1e05a"/><rect x="338.92" y="52" width="20.49" height="8" fill="#e34c26"/><rect x="359.42" y="52" width="9.01" height="8" fill="#663399"/><rect x="368.43" y="52" width="4.21" height="8" fill="#a86454"/><rect x="372.64" y="52" width="3.36" height="8" fill="#c6538c"/></g>
-<g><circle cx="29" cy="84" r="5" fill="#3178c6"/><text class="label" x="40" y="88">TypeScript <tspan class="small">78.3%</tspan></text></g>
-<g><circle cx="205" cy="84" r="5" fill="#f1e05a"/><text class="label" x="216" y="88">JavaScript <tspan class="small">11.2%</tspan></text></g>
-<g><circle cx="29" cy="110" r="5" fill="#e34c26"/><text class="label" x="40" y="114">HTML <tspan class="small">5.8%</tspan></text></g>
+<clipPath id="bar"><rect x="24" y="52" width="352" height="8" rx="4"/></clipPath><g clip-path="url(#bar)"><rect x="24.00" y="52" width="265.25" height="8" fill="#3178c6"/><rect x="289.25" y="52" width="49.16" height="8" fill="#f1e05a"/><rect x="338.41" y="52" width="19.73" height="8" fill="#e34c26"/><rect x="358.14" y="52" width="9.08" height="8" fill="#663399"/><rect x="367.22" y="52" width="5.54" height="8" fill="#a86454"/><rect x="372.77" y="52" width="3.23" height="8" fill="#c6538c"/></g>
+<g><circle cx="29" cy="84" r="5" fill="#3178c6"/><text class="label" x="40" y="88">TypeScript <tspan class="small">75.4%</tspan></text></g>
+<g><circle cx="205" cy="84" r="5" fill="#f1e05a"/><text class="label" x="216" y="88">JavaScript <tspan class="small">14.0%</tspan></text></g>
+<g><circle cx="29" cy="110" r="5" fill="#e34c26"/><text class="label" x="40" y="114">HTML <tspan class="small">5.6%</tspan></text></g>
 <g><circle cx="205" cy="110" r="5" fill="#663399"/><text class="label" x="216" y="114">CSS <tspan class="small">2.6%</tspan></text></g>
-<g><circle cx="29" cy="136" r="5" fill="#a86454"/><text class="label" x="40" y="140">Pug <tspan class="small">1.2%</tspan></text></g>
-<g><circle cx="205" cy="136" r="5" fill="#c6538c"/><text class="label" x="216" y="140">SCSS <tspan class="small">1.0%</tspan></text></g>
+<g><circle cx="29" cy="136" r="5" fill="#a86454"/><text class="label" x="40" y="140">Pug <tspan class="small">1.6%</tspan></text></g>
+<g><circle cx="205" cy="136" r="5" fill="#c6538c"/><text class="label" x="216" y="140">SCSS <tspan class="small">0.9%</tspan></text></g>
 </svg>
