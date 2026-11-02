@@ -16,11 +16,11 @@
 </style>
 <rect class="card" x="0.5" y="0.5" rx="8" width="399" height="204"/>
 <text class="title" x="24" y="36">Most Used Languages</text>
-<clipPath id="bar"><rect x="24" y="52" width="352" height="8" rx="4"/></clipPath><g clip-path="url(#bar)"><rect x="24.00" y="52" width="278.17" height="8" fill="#3178c6"/><rect x="302.17" y="52" width="42.56" height="8" fill="#f1e05a"/><rect x="344.73" y="52" width="16.41" height="8" fill="#e34c26"/><rect x="361.14" y="52" width="7.56" height="8" fill="#663399"/><rect x="368.70" y="52" width="4.61" height="8" fill="#a86454"/><rect x="373.31" y="52" width="2.69" height="8" fill="#c6538c"/></g>
-<g><circle cx="29" cy="84" r="5" fill="#3178c6"/><text class="label" x="40" y="88">TypeScript <tspan class="small">79.0%</tspan></text></g>
-<g><circle cx="205" cy="84" r="5" fill="#f1e05a"/><text class="label" x="216" y="88">JavaScript <tspan class="small">12.1%</tspan></text></g>
-<g><circle cx="29" cy="110" r="5" fill="#e34c26"/><text class="label" x="40" y="114">HTML <tspan class="small">4.7%</tspan></text></g>
-<g><circle cx="205" cy="110" r="5" fill="#663399"/><text class="label" x="216" y="114">CSS <tspan class="small">2.1%</tspan></text></g>
-<g><circle cx="29" cy="136" r="5" fill="#a86454"/><text class="label" x="40" y="140">Pug <tspan class="small">1.3%</tspan></text></g>
-<g><circle cx="205" cy="136" r="5" fill="#c6538c"/><text class="label" x="216" y="140">SCSS <tspan class="small">0.8%</tspan></text></g>
+<clipPath id="bar"><rect x="24" y="52" width="352" height="8" rx="4"/></clipPath><g clip-path="url(#bar)"><rect x="24.00" y="52" width="255.68" height="8" fill="#3178c6"/><rect x="279.68" y="52" width="42.19" height="8" fill="#e34c26"/><rect x="321.88" y="52" width="40.47" height="8" fill="#f1e05a"/><rect x="362.34" y="52" width="6.95" height="8" fill="#663399"/><rect x="369.29" y="52" width="4.24" height="8" fill="#a86454"/><rect x="373.53" y="52" width="2.47" height="8" fill="#c6538c"/></g>
+<g><circle cx="29" cy="84" r="5" fill="#3178c6"/><text class="label" x="40" y="88">TypeScript <tspan class="small">72.6%</tspan></text></g>
+<g><circle cx="205" cy="84" r="5" fill="#e34c26"/><text class="label" x="216" y="88">HTML <tspan class="small">12.0%</tspan></text></g>
+<g><circle cx="29" cy="110" r="5" fill="#f1e05a"/><text class="label" x="40" y="114">JavaScript <tspan class="small">11.5%</tspan></text></g>
+<g><circle cx="205" cy="110" r="5" fill="#663399"/><text class="label" x="216" y="114">CSS <tspan class="small">2.0%</tspan></text></g>
+<g><circle cx="29" cy="136" r="5" fill="#a86454"/><text class="label" x="40" y="140">Pug <tspan class="small">1.2%</tspan></text></g>
+<g><circle cx="205" cy="136" r="5" fill="#c6538c"/><text class="label" x="216" y="140">SCSS <tspan class="small">0.7%</tspan></text></g>
 </svg>
